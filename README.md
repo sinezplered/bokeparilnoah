@@ -1,2 +1,1 @@
-# bokeparilnoah
-bokeparilnoah
+# [bokeparilnoah](https://bokeparilnoah.pages.dev)
