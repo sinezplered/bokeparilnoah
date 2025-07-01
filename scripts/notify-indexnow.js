@@ -9,8 +9,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename); // 'path' is used here
 
 // --- Konfigurasi Anda ---
-const YOUR_DOMAIN = 'https://bokepbocilhijab.pages.dev'; // Ganti dengan domain Anda yang sebenarnya
-const API_KEY_NAME = '666049eb-f2e1-4eb9-866f-955776b650a0'; // Ganti dengan GUID Anda
+const YOUR_DOMAIN = 'https://bokeparilnoah.pages.dev'; // Ganti dengan domain Anda yang sebenarnya
+const API_KEY_NAME = '3988f97d-68d5-4074-afc5-203fe6d6a910'; // Ganti dengan GUID Anda
 const API_KEY_LOCATION = `${YOUR_DOMAIN}/${API_KEY_NAME}.txt`;
 const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/IndexNow';
 // --- Akhir Konfigurasi ---
